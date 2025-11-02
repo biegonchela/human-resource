@@ -1,20 +1,19 @@
-# 🧩 hr SQL Analysis
-**Author:**Biegon Chela
-Nairobi
+     hr SQL Analysis
+Author:YVONNE BIEGON
 
-## 📘 Project Overview
+     Project Overview
 This project explores the *hr* dataset using *SQL* to gain insights into employee demographics, performance, satisfaction, retention, and departmental trends.  
 The analysis helps HR teams make data-driven decisions about employee engagement, pay, and productivity.
 
 ---
 
-## 🗂 Dataset Information
+     Dataset Information
 *Dataset name:* HR  
 *Source:* Kaggle – Human Resources Analytics Dataset  
 *Rows:* ~300 employees  
 *File type:* CSV  
 
-*Key Columns:*
+     Key Columns:
 - Employee_Name – Full name of the employee  
 - Department – Department the employee works in  
 - Position – Job title or role  
@@ -29,7 +28,7 @@ The analysis helps HR teams make data-driven decisions about employee engagement
 
 ---
 
-## 🎯 Project Objectives
+     Project Objectives
 The goal of this project is to:
 - Analyze HR data to uncover trends and insights.
 - Understand employee retention, satisfaction, and performance.
@@ -38,7 +37,7 @@ The goal of this project is to:
 
 ---
 
-## 💻 SQL Questions and Analysis
+     SQL Questions and Analysis
 Below are the 13 key questions answered using SQL:
 
 1. How many employees are in the company?  
@@ -57,14 +56,14 @@ Below are the 13 key questions answered using SQL:
 
 ---
 
-## 🧮 Tools and Technologies
+      Tools and Technologies
 - *SQL (MySQL)* – for querying and analysis  
 - *Kaggle* – for dataset source  
 - *GitHub* – for version control and portfolio  
 
 ---
 
-## 📊 Key Insights (examples)
+      Key Insights (examples)
 - The *Sales* and *Production* departments have the largest headcounts.  
 - Departments with *higher average salaries* tend to have *higher performance scores*.  
 - *Employee satisfaction* positively correlates with *retention rate*.  
